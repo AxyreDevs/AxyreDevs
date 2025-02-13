@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi! I'm Commonly Go By The Alias "Axolotl"
 
-- 🔭 I’m currently working on Game Dev
-- 🌱 I’m currently learning Godot
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I spent the past 4 years doing game dev on mobile using ItsMagic Engine
+- I'm currently learning Game Development
+- Software I'm learning to use:
+  - Godot
+  - Blender
+  - Aseprite
+  - Davinci Resolve
+  - Cakewalk
 
+I record down any of my notable creations here in my Github! They're all here :D
