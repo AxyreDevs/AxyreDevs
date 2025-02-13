@@ -1,4 +1,4 @@
-## Hi! I'm Commonly Go By The Alias "Axolotl"
+## Hi! I Commonly Go By The Online Alias: "Axolotl"
 
 - I'm currently learning Game Development
 - Software I'm learning to use:
